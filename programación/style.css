@@ -1,0 +1,19 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
+header {
+    background-color: cadetblue;
+    color: black;
+    padding: 3rem 4rem;
+}
+
+header h1 {
+   font-size: 4rem;
+   text-align: center;
+}
